@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tarea_2_Practica_Definitiva
+build_property.ProjectDir = C:\Users\DELL\Desktop\Archivos de milton\ITLA\Trabajos ITLA\6.Sexto Cuatrimestre\Programación Paralela\Tarea 2 Pratico\Tarea 2 Practica Definitiva\
